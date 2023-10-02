@@ -38,4 +38,4 @@ Feel free to click on the "View Project" links to see each project in action. Th
 
 ## About the Author
 
-These projects are created by [Your Name]. You can find more of my work on my GitHub profile: [My GitHub Profile](https://github.com/skimran-coder).
+These projects are created by Sk Imran Hussain. You can find more of my work on my GitHub profile: [My GitHub Profile](https://github.com/skimran-coder).
